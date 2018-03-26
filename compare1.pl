@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-
+#compare script on 2 files
 
 use strict;
 use warnings;
